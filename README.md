@@ -1,0 +1,1 @@
+Completed Emotion Recognition Assignment for Machine Learning for Data Analysis class at the University of Strathclyde. Data for the assignment taken from kaggle, accessible at this link: https://www.kaggle.com/competitions/cs985-987-emotion-recognition-project-2024
